@@ -1,4 +1,4 @@
-# 🌎 David's's Portfolio
+# 🌎 David's Portfolio
 
 Welcome to my portfolio! Here, you can find several projects I have completed over the years.
 
