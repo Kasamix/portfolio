@@ -6,6 +6,7 @@ Welcome to my portfolio! Here, you can find several projects I have completed ov
 - [Projects](#projects)
 
 # Projects
+Some links might not work (these are private repos for confidential reasons)
 
 | Project Link | Completion Date | Tools | Project Description | 
 |---|---|---|---|
